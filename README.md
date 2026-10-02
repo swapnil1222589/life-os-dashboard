@@ -1,4 +1,4 @@
-# 🧠 Life-OS Dashboard
+# 🧠 Life-OS Dashboard   
 
 > **Measure your habits. Understand your patterns. Improve your day.**
 
