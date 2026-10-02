@@ -96,7 +96,7 @@ Screen time is grouped into categories such as:
 * Education
 * Entertainment
 
-This provides a clearer view of **where your digital time is going**.
+This provides a clearer view of **where your digital time is going**.                    
 
 ---
 
