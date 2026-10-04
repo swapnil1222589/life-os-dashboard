@@ -37,7 +37,7 @@ Analyze application usage using a CSV dataset containing:
 * Application name
 * Category
 * Minutes used
-
+   
 ---
 
 ### 🎯 Daily Screen-Time Goal
