@@ -97,7 +97,7 @@ Screen time is grouped into categories such as:
 * Entertainment
 
 This provides a clearer view of **where your digital time is going**.                    
-
+ 
 ---
 
 ### 🤖 AI Life Coach
