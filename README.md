@@ -6,7 +6,7 @@ Life-OS Dashboard is a **Python + Streamlit digital wellbeing dashboard** that t
 
 The project analyzes application usage, tracks daily screen-time goals, visualizes usage trends, breaks usage down by category, and provides a foundation for **Gemini-powered AI lifestyle coaching**.
 
----
+---    
 
 ## 🚀 Overview
 
