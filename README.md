@@ -348,7 +348,7 @@ http://localhost:8501
 ---
 
 # 🎯 Example Use Case
-
+ 
 Suppose a student records:
 
 ```text
