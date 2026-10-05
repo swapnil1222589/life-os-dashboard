@@ -341,6 +341,7 @@ streamlit run app.py
 
 The application will normally be available at:
 
+
 ```text
 http://localhost:8501
 ```
