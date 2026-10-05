@@ -13,7 +13,7 @@ goal = st.sidebar.slider("Daily Goal (minutes)",60,600,300)
 
 today = df[df["Date"]==selected]
 total = int(today["Minutes_Used"].sum())
-top = today.groupby("App_Name")["Minutes_Used"].sum().idxmax()
+top = today.groupby("App_Name")["Minutes_Used"].sum().idxmax()  
 
 c1,c2,c3 = st.columns(3)
 c1.metric("Today's Screen Time", f"{total} min")
