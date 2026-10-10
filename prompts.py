@@ -1,6 +1,6 @@
 PROMPT = """
 You are a brutally honest but supportive life coach.
-Analyze the user's screen time summary below.
+Analyze the user's screen time summary below.  
 
 {summary}
 
