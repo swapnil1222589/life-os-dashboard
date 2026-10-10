@@ -89,7 +89,7 @@ This makes it easier to identify:
 
 ### 🗂️ Category Breakdown
 
-Screen time is grouped into categories such as:
+Screen time is grouped into categories such as:  
 
 * Social Media
 * Coding
