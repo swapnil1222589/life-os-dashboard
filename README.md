@@ -76,7 +76,7 @@ VS Code
 
 ### 📈 14-Day Usage Trend
 
-Visualize how screen time changes across the available 14-day dataset.
+Visualize how screen time changes across the available 14-day dataset.   
 
 This makes it easier to identify:
 
