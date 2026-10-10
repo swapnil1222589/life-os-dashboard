@@ -1,6 +1,6 @@
 # 🧠 Life-OS Dashboard   
 
-> **Measure your habits. Understand your patterns. Improve your day.**
+> **Measure your habits. Understand your patterns. Improve your day.**  
 
 Life-OS Dashboard is a **Python + Streamlit digital wellbeing dashboard** that transforms screen-time data into useful personal insights.
 
