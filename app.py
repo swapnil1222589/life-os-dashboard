@@ -8,7 +8,7 @@ st.title("🧠 Life-OS Wellbeing Dashboard")
 df = pd.read_csv("screentime.csv")
 
 dates = sorted(df["Date"].unique())
-selected = st.sidebar.selectbox("Select Day", dates)   
+selected = st.sidebar.selectbox("Select Day", dates)    
 goal = st.sidebar.slider("Daily Goal (minutes)",60,600,300)
 
 today = df[df["Date"]==selected]
