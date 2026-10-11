@@ -24,6 +24,6 @@ st.subheader("14-Day Trend")
 st.line_chart(df.groupby("Date")["Minutes_Used"].sum())
 
 st.subheader("Category Usage")
-st.bar_chart(today.groupby("Category")["Minutes_Used"].sum())
+st.bar_chart(today.groupby("Category")["Minutes_Used"].sum())   
 
 st.info("Integrate Gemini API here to generate personalized coaching.")
