@@ -93,7 +93,7 @@ Screen time is grouped into categories such as:
 
 * Social Media
 * Coding
-* Education
+* Education    
 * Entertainment
 
 This provides a clearer view of **where your digital time is going**.                    
