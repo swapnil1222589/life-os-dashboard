@@ -9,5 +9,5 @@ Return:
 - Good habits
 - Bad habits
 - Five actionable suggestions
-- Motivational quote
+- Motivational quote 
 """ 
