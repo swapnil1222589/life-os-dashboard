@@ -21,7 +21,7 @@ c2.metric("Most Used App", top)
 c3.metric("Goal Delta", total-goal, delta_color="inverse")
 
 st.subheader("14-Day Trend") 
-st.line_chart(df.groupby("Date")["Minutes_Used"].sum())
+st.line_chart(df.groupby("Date")["Minutes_Used"].sum()) 
 
 st.subheader("Category Usage")
 st.bar_chart(today.groupby("Category")["Minutes_Used"].sum())   
