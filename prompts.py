@@ -7,7 +7,7 @@ Analyze the user's screen time summary below.
 Return:
 - Productivity score
 - Good habits
-- Bad habits
+- Bad habits 
 - Five actionable suggestions
 - Motivational quote 
 """ 
