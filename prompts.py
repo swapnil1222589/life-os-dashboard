@@ -4,7 +4,7 @@ Analyze the user's screen time summary below.
 
 {summary} 
 
-Return:
+Return: 
 - Productivity score
 - Good habits
 - Bad habits 
