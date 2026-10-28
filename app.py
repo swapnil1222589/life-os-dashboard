@@ -17,7 +17,7 @@ top = today.groupby("App_Name")["Minutes_Used"].sum().idxmax()
  
 c1,c2,c3 = st.columns(3)
 c1.metric("Today's Screen Time", f"{total} min")  
-c2.metric("Most Used App", top)
+c2.metric("Most Used App", top) 
 c3.metric("Goal Delta", total-goal, delta_color="inverse") 
 
 st.subheader("14-Day Trend") 
