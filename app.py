@@ -12,7 +12,7 @@ selected = st.sidebar.selectbox("Select Day", dates)
 goal = st.sidebar.slider("Daily Goal (minutes)",60,600,300)
 
 today = df[df["Date"]==selected]
-total = int(today["Minutes_Used"].sum())
+total = int(today["Minutes_Used"].sum()) 
 top = today.groupby("App_Name")["Minutes_Used"].sum().idxmax()  
  
 c1,c2,c3 = st.columns(3)
