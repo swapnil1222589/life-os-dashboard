@@ -27,7 +27,7 @@ The application currently supports:
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 ### 📊 Screen-Time Analytics
 
