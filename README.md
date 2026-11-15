@@ -29,7 +29,7 @@ The application currently supports:
 
 ## ✨ Features 
 
-### 📊 Screen-Time Analytics
+### 📊 Screen-Time Analytics 
 
 Analyze application usage using a CSV dataset containing:
 
