@@ -44,7 +44,7 @@ Analyze application usage using a CSV dataset containing:
 
 Set a personal daily screen-time target using an interactive slider.
 
-The dashboard compares your actual usage with your selected goal. 
+The dashboard compares your actual usage with your selected goal.  
 
 ```text
 Daily Goal
