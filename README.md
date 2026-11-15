@@ -35,7 +35,7 @@ Analyze application usage using a CSV dataset containing:
 
 * Date
 * Application name
-* Category
+* Category 
 * Minutes used 
    
 ---
