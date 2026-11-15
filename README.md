@@ -58,7 +58,7 @@ Personal Insight
 
 ---
 
-### 📱 Most-Used App
+### 📱 Most-Used App 
 
 The dashboard automatically identifies the application with the highest usage for the selected date. 
 
