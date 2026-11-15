@@ -19,7 +19,7 @@ The application currently supports:
 * 📊 Screen-time analytics  
 * 🎯 Daily usage goals 
 * 📈 14-day usage trends
-* 📱 Most-used application detection
+* 📱 Most-used application detection 
 * 🗂️ Category-wise usage analysis
 * 🤖 AI coaching integration foundation
 * 🧑‍💻 Dynamic avatar generation
