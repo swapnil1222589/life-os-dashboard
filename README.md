@@ -51,7 +51,7 @@ Daily Goal
     ↓
 Actual Screen Time
     ↓
-Goal Difference
+Goal Difference 
     ↓
 Personal Insight
 ```
