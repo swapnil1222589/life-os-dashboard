@@ -70,7 +70,7 @@ Most Used App
 VS Code
       ↓
 180 minutes
-```
+``` 
 
 ---
 
