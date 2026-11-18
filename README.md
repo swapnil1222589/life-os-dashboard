@@ -50,7 +50,7 @@ The dashboard compares your actual usage with your selected goal.
 Daily Goal
     ↓
 Actual Screen Time 
-    ↓
+    ↓ 
 Goal Difference 
     ↓
 Personal Insight
