@@ -49,7 +49,7 @@ The dashboard compares your actual usage with your selected goal.
 ```text
 Daily Goal
     ↓
-Actual Screen Time
+Actual Screen Time 
     ↓
 Goal Difference 
     ↓
