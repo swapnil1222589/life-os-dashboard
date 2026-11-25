@@ -23,7 +23,7 @@ The application currently supports:
 * 🗂️ Category-wise usage analysis 
 * 🤖 AI coaching integration foundation
 * 🧑‍💻 Dynamic avatar generation
-* 📋 CSV-based data processing
+* 📋 CSV-based data processing 
 
 ---
 
