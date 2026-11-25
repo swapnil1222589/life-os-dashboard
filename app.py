@@ -10,7 +10,7 @@ df = pd.read_csv("screentime.csv")
 dates = sorted(df["Date"].unique())  
 selected = st.sidebar.selectbox("Select Day", dates)    
 goal = st.sidebar.slider("Daily Goal (minutes)",60,600,300)
-
+ 
 today = df[df["Date"]==selected]
 total = int(today["Minutes_Used"].sum())  
 top = today.groupby("App_Name")["Minutes_Used"].sum().idxmax()  
