@@ -3,7 +3,7 @@ import pandas as pd
 
 st.set_page_config(page_title="Life-OS", layout="wide") 
 
-st.title("🧠 Life-OS Wellbeing Dashboard") 
+st.title("🧠 Life-OS Wellbeing Dashboard")  
 
 df = pd.read_csv("screentime.csv")
  
