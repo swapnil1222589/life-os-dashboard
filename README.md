@@ -10,7 +10,7 @@ The project analyzes application usage, tracks daily screen-time goals, visualiz
 
 ## 🚀 Overview  
 
-Digital habits can be difficult to understand when usage data is scattered across different applications and devices.
+Digital habits can be difficult to understand when usage data is scattered across different applications and devices. 
 
 Life-OS Dashboard provides a simple interface for analyzing this data in one place.  
 
