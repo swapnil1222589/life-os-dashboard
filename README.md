@@ -17,7 +17,7 @@ Life-OS Dashboard provides a simple interface for analyzing this data in one pla
 The application currently supports: 
                                                      
 * 📊 Screen-time analytics   
-* 🎯 Daily usage goals 
+* 🎯 Daily usage goals  
 * 📈 14-day usage trends  
 * 📱 Most-used application detection 
 * 🗂️ Category-wise usage analysis 
