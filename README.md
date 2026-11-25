@@ -14,7 +14,7 @@ Digital habits can be difficult to understand when usage data is scattered acros
 
 Life-OS Dashboard provides a simple interface for analyzing this data in one place.   
 
-The application currently supports:
+The application currently supports: 
                                                      
 * 📊 Screen-time analytics   
 * 🎯 Daily usage goals 
