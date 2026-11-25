@@ -47,7 +47,7 @@ Set a personal daily screen-time target using an interactive slider.
 The dashboard compares your actual usage with your selected goal.   
 
 ```text
-Daily Goal
+Daily Goal 
     ↓
 Actual Screen Time 
     ↓ 
