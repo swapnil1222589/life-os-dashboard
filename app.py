@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd 
 
-st.set_page_config(page_title="Life-OS", layout="wide")
+st.set_page_config(page_title="Life-OS", layout="wide") 
 
 st.title("🧠 Life-OS Wellbeing Dashboard")
 
