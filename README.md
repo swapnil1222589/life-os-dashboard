@@ -34,7 +34,7 @@ The application currently supports:
 Analyze application usage using a CSV dataset containing:
 
 * Date
-* Application name 
+* Application name  
 * Category 
 * Minutes used 
    
